@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a993d7efdc80e21419957434d5589c73, type: 3}
+  m_Name: FireDamage
+  m_EditorClassIdentifier: 
+  _placeLogic: {fileID: 11400000, guid: e4e6b87d327d29442b4a919be3fb2f79, type: 2}
+  _abilityAction:
+  - {fileID: 11400000, guid: 6244c9de4a1928545bac879c6c5a5753, type: 2}
